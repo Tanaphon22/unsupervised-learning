@@ -60,3 +60,5 @@ from sklearn.cluster import KMeans
 #kmeans = KMeans(n_clusters=6).fit_predict(x)
 kmeans = KMeans(n_clusters=7).fit_predict(x)
 print(kmeans)
+
+print(test)
