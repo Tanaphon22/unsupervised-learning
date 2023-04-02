@@ -1,6 +1,0 @@
-x="hello"
-
-for i in range(15):
-    t=+1
-    print(x)
-    
