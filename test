@@ -1,1 +1,4 @@
-print("hello")
+x="hello"
+
+for i in range(15):
+    print(x)
